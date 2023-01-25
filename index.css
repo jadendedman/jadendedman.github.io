@@ -1,0 +1,10 @@
+h1 {
+color: pink;
+}
+
+p {
+color: hotpink;
+}
+
+h1, p {
+font-family: Helvetica;}
